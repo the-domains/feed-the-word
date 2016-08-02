@@ -1,4 +1,3 @@
-layout_spectrum: 0.19306628732010722
 typography_spectrum: 0.8085389342159033
 color:
   brandStrength: 0.8979605732019991
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.19306628732010722
 name: Feed the Word
 title: B is for Brand
+description: 'Everything you need to know about branding, business and becoming awesome.'
