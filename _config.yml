@@ -11,6 +11,10 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.19306628732010722
+author:
+  name: Brant Emery
+  email: brant@rentabrant.com
+  url: www.rentabrant.com
 name: Feed the Word
 navigation:
   - name: Main site
