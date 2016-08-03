@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.19306628732010722
 name: Feed the Word
+navigation:
+  - name: Main site
+    url: 'http://www.rentabrant.com'
+    type: external
 title: B is for Brand
 description: 'Everything you need to know about branding, business and becoming awesome.'
